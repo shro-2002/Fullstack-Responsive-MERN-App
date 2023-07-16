@@ -108,5 +108,4 @@ import {
       </WidgetWrapper>
     );
   };
-  
-  export default PostWidget;
+export default PostWidget;

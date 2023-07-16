@@ -147,5 +147,4 @@ import {
       </WidgetWrapper>
     );
   };
-  
-  export default UserWidget;
+export default UserWidget;
